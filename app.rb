@@ -1,7 +1,7 @@
 require 'bundler'
 Bundler.require
+
 require_relative 'lib/game'
-require_relative 'lib/player'
 
 # C'est bon, on a tous les ingrédients pour que nos joueurs se trucident bien comme il faut ! 
 # Les joueurs peuvent attaquer, subir des dégâts et on peut donner des infos sur le terminal via plein de puts. 
